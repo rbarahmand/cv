@@ -1,0 +1,21 @@
+body {
+    background-color: #ecfcff;
+}
+
+hr {
+    border-color: #b5cfd8;
+    /* beacuse of some defults values we need to change the to see the differens*/
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    /* using the precentage to prevent hard coding */
+}
+
+h1 {
+    color: #698474;
+}
+
+h3 {
+    color: #5da0a2;
+}
